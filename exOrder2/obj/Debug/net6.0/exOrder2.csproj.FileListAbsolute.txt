@@ -1,0 +1,14 @@
+C:\Users\AEMaximinos\source\repos\exOrder2\exOrder2\bin\Debug\net6.0\exOrder2.exe
+C:\Users\AEMaximinos\source\repos\exOrder2\exOrder2\bin\Debug\net6.0\exOrder2.deps.json
+C:\Users\AEMaximinos\source\repos\exOrder2\exOrder2\bin\Debug\net6.0\exOrder2.runtimeconfig.json
+C:\Users\AEMaximinos\source\repos\exOrder2\exOrder2\bin\Debug\net6.0\exOrder2.dll
+C:\Users\AEMaximinos\source\repos\exOrder2\exOrder2\bin\Debug\net6.0\exOrder2.pdb
+C:\Users\AEMaximinos\source\repos\exOrder2\exOrder2\obj\Debug\net6.0\exOrder2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AEMaximinos\source\repos\exOrder2\exOrder2\obj\Debug\net6.0\exOrder2.AssemblyInfoInputs.cache
+C:\Users\AEMaximinos\source\repos\exOrder2\exOrder2\obj\Debug\net6.0\exOrder2.AssemblyInfo.cs
+C:\Users\AEMaximinos\source\repos\exOrder2\exOrder2\obj\Debug\net6.0\exOrder2.csproj.CoreCompileInputs.cache
+C:\Users\AEMaximinos\source\repos\exOrder2\exOrder2\obj\Debug\net6.0\exOrder2.dll
+C:\Users\AEMaximinos\source\repos\exOrder2\exOrder2\obj\Debug\net6.0\refint\exOrder2.dll
+C:\Users\AEMaximinos\source\repos\exOrder2\exOrder2\obj\Debug\net6.0\exOrder2.pdb
+C:\Users\AEMaximinos\source\repos\exOrder2\exOrder2\obj\Debug\net6.0\exOrder2.genruntimeconfig.cache
+C:\Users\AEMaximinos\source\repos\exOrder2\exOrder2\obj\Debug\net6.0\ref\exOrder2.dll
